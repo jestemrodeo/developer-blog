@@ -1,6 +1,6 @@
 ---
-title: "Testing Github Pages"
+title: "Grains of Salt"
 ---
 
-# This is Highlighted
+Just an ugly index for now
 
