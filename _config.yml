@@ -1,3 +1,10 @@
 theme: minima
 title: Developer Blog
 author: Rodrigo Maidana
+
+languages: ["en", "es"]
+exclude_from_localizations: ["javascript", "images", "css"]
+default_locale_in_subfolder: true
+
+plugins:
+  - jekyll-multiple-languages-plugin

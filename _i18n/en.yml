@@ -1,0 +1,11 @@
+site:
+  name: Grains of Salt
+  tagline: Developer Blog
+  description: Here I talk about things I enjoy
+  keywords: Developer, iOS, Languages
+
+main:
+  welcomeSection:
+    anchor: welcome
+    heading: Welcome to this marvelous webseite.
+    p1: Hundreds of thousands of people are amazed by this site. Are you?
