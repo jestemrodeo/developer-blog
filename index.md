@@ -2,5 +2,5 @@
 title: "Grains of Salt"
 ---
 
-Just an ugly index for now
+Hey! I'm a Mobile Developer and this is my personal blog where I post about programming and my hobbies
 
