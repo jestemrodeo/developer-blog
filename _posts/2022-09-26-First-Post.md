@@ -29,6 +29,6 @@ Lo que nos lleva a aprender un idioma es la repetición constante y el contacto 
 
 Mis siguientes pasos luego de llegar a un nivel aceptable de japonés (poder consumir contenido nativo sin mucho problema) será adentrarme en Polaco, esto por mis raíces polacas de mi madre, o tal vez seguir el trend asiático y echarle un ojo al chino mandarín.
 
-En cualquier caso, aprender un 2do o 3er idioma no es algo para superhumanos, sino más bien para gente dispuesta a invertir constantemente un tiempo todos los días a dar un paso más, aprender 2 o 3 palabras nuevas, consumir un rato de ese idioma, aprender una estructura gramatical nueva, etc.
+En cualquier caso, aprender un 2do o 3er idioma no es algo para superhumanos, sino más bien para gente dispuesta a invertir constantemente un tiempo todos los días a dar un paso más, aprender 2 o 3 palabras nuevas, consumir un rato de ese idioma, aprender una estructura gramatical nueva, etc. Y por supuesto, lo más importante es la constancia.
 
 Gracias por leer!
